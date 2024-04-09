@@ -1,4 +1,4 @@
-date,type,course_number
+date,course_type,course_number
 2024-04-01,Lecture,DSCI 542
 2024-04-01,Lecture,DSCI 575
 2024-04-01,Lab,DSCI 554
